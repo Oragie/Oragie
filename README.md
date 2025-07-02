@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oragie
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Javascript React
+- 🌱 I’m currently Javascript React Junior developper
 - 💞️ I’m looking to learn quick
 - 📫 How to reach me by messenger @oragie_Silverhand
 - 😄 Pronouns: he
